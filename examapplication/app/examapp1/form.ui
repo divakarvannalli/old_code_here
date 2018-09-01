@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1125</width>
+    <height>1694</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>85</red>
+        <green>85</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </active>
+    <inactive>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>85</red>
+        <green>85</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </inactive>
+    <disabled>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </disabled>
+   </palette>
+  </property>
+  <property name="mouseTracking">
+   <bool>true</bool>
+  </property>
+  <property name="focusPolicy">
+   <enum>Qt::ClickFocus</enum>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>220</y>
+     <width>151</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="palette">
+    <palette>
+     <active>
+      <colorrole role="Text">
+       <brush brushstyle="SolidPattern">
+        <color alpha="255">
+         <red>255</red>
+         <green>0</green>
+         <blue>127</blue>
+        </color>
+       </brush>
+      </colorrole>
+     </active>
+     <inactive>
+      <colorrole role="Text">
+       <brush brushstyle="SolidPattern">
+        <color alpha="255">
+         <red>255</red>
+         <green>0</green>
+         <blue>127</blue>
+        </color>
+       </brush>
+      </colorrole>
+     </inactive>
+     <disabled>
+      <colorrole role="Text">
+       <brush brushstyle="SolidPattern">
+        <color alpha="255">
+         <red>159</red>
+         <green>158</green>
+         <blue>158</blue>
+        </color>
+       </brush>
+      </colorrole>
+     </disabled>
+    </palette>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+     <weight>75</weight>
+     <italic>false</italic>
+     <bold>true</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+     <kerning>true</kerning>
+    </font>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Sunken</enum>
+   </property>
+   <property name="text">
+    <string>LOGIN HERE</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="buddy">
+    <cstring></cstring>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>260</y>
+     <width>371</width>
+     <height>309</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>NAME</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_3">
+      <property name="text">
+       <string>DIVAKAR NAIK</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>USN NO</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_4">
+      <property name="text">
+       <string>1SK10EC020</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>MAIL ID</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_5">
+      <property name="text">
+       <string>divakarnaik.100@gmail.com</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>APP USERNAME</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_2">
+      <property name="font">
+       <font>
+        <stylestrategy>PreferAntialias</stylestrategy>
+       </font>
+      </property>
+      <property name="text">
+       <string>divakar</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>APP PASSWORD</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit">
+      <property name="acceptDrops">
+       <bool>true</bool>
+      </property>
+      <property name="text">
+       <string>123</string>
+      </property>
+      <property name="echoMode">
+       <enum>QLineEdit::Password</enum>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>login</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>840</x>
+     <y>230</y>
+     <width>101</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string> IP SETUP</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>260</y>
+     <width>271</width>
+     <height>108</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>   ip address</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_6">
+      <property name="text">
+       <string>10.20.119.70</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string> port number</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLineEdit" name="lineEdit_7">
+      <property name="text">
+       <string>5007</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <zorder>layoutWidget</zorder>
+  <zorder>label</zorder>
+  <zorder>lineEdit_6</zorder>
+  <zorder>lineEdit_7</zorder>
+  <zorder>label_7</zorder>
+  <zorder>label_8</zorder>
+  <zorder>label_9</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
