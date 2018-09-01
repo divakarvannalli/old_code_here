@@ -1,0 +1,9 @@
+-->work pending on textedit to display question,description,image at once
+-->storing answer in db
+--->result section db work
+---->getting datas and creating db
+----->need to check for android 
+--->how to release for desktop
+=--->how to release for android
+--->testing
+

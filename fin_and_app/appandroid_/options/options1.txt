@@ -1,0 +1,9 @@
+1.delhi;mumbai;bangalore;pune;
+2.bangalore;haveri;mysore;davangere;
+3.USA;UK;France;Russia;
+4.Pakistan;India;Afghanistan;Myanmar;
+5.Ratan Tata;Mukesh Ambani;Vijay Mallya;Aditya Birla;
+6.Satyam;HCL;Wipro;Infosys Technologies;
+7.Mithali Raj;Kiran Baloch;Diana Eduljee;None of these;
+8.Chandrika Kumaratunga;Ranil Wickremesinghe;Mahinda Rajapakse;None of these;
+

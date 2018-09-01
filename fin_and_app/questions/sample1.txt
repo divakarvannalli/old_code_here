@@ -1,0 +1,4171 @@
+IBPS Clerk Mains : Part - 1
+2. 353
+QUANTITATIVE APTITUDE
+
+3. 385
+4. 225
+
+Directions (1-5): In the following number series
+one number is wrong. Find out the wrong number.
+
+5. 316
+
+1. 39, 42, 48, 59, 84, 132
+
+5. 21, 29, 84, 756, 12096, 302400
+
+1. 132
+
+1. 12096
+
+2. 42
+3. 48
+4. 59
+5. 84
+
+2. 11, 18, 30, 40, 59, 86
+
+2. 29
+3. 84
+4. 756
+5. 21
+
+1. 30
+2. 11
+3. 18
+4. 59
+5. 86
+
+Directions
+
+(6
+
+–
+
+10):
+
+In
+
+these
+
+questions
+
+a
+
+relationship between different elements is shown
+in the statements.
+The statements are followed by two conclusions.
+Give your answer
+a) If conclusion (I) is true.
+b) If conclusion (II) is true.
+c) If either conclusion (I) or (II) is true.
+
+3. 5, 30, 59, 119, 209, 335
+1. 59
+2. 335
+3. 5
+
+d) If neither conclusion (I) nor (II) is true.
+e) If both conclusions (I) and (II) are true.
+6. Statements:
+C>E>N=T, L<W=N
+Conclusions:
+I) N=W
+
+4. 119
+
+II) E>L
+
+5. 30
+
+7. Statements:
+R=E<S>P, Q>M>E
+Conclusions:
+
+4. 353, 385, 316, 441, 225, 568
+1. 568
+
+www.BankExamsToday.Com
+
+I) P>Q
+II) M>R
+
+Page 1
+
+IBPS Clerk Mains : Part - 1
+8. Statements:
+
+3. 1.25% gain
+
+X>W>D>B,G=T>W
+
+4. 29.03%
+
+Conclusions:
+
+5. 27.13% loss
+
+I) G>D
+II) T>B
+
+13. The average age of four boys, five years ago
+was 9 of all the five is 15 years. The present age of
+
+9. Statements:
+
+the new boy is
+
+N<R=K<L,F<U<L
+
+1. 22 years
+
+Conclusions:
+
+2. 24 years
+
+I) R>F
+
+3. 21 years
+
+II) N>U
+
+4. 18 years
+5. 19 years
+
+10. Statements:
+C>R>T=M<P<N
+
+14. P, Q and R can do a piece of work in 18,24 and
+
+Conclusions:
+
+36 days on the second day and P on the third day,
+
+I) C>M
+
+again R on the fourth day and so on. Then in how,
+
+II) T<N
+
+many days will the work be completed?
+1. 25
+
+11. Each Student of a class collected some money
+for the trip. The total money collected by each
+student was equal to the cube of the total number
+of students. If the total amount collected was Rs.
+29791. find the total number of students.
+1. 31
+2. 30
+3. 28
+4. 37
+5. 39
+12. A dealer buys an article marked at Rs. 50,000
+at 25% and 10% successive discount. He spends
+Rs. 5000 on its repair and sells it for Rs. 50,000.
+What is his loss or gain percentage?
+1. 33.63% loss
+2. 26.43% gain
+
+2. 24
+3. 22
+4. 20
+5. 26
+15. Harshika wants to purchase a mobile handset.
+The shopkeepers told her to pay 30% tax if she
+asked for the actual sale price (without tax) of the
+mobile and paid to the shopkeeper Rs. 16150. In
+the doing so, she managed to avoid to pay the
+30% tax. What is the amount of discount that she
+received on the selling price (inclusive of tax)?
+1. Rs. 5495
+2. Rs. 5850
+3. Rs. 5950
+4. Rs. 5685
+5. Rs. 5975
+
+Direction (16-21): Study the table carefully and answer the questions given below:
+Details of employees deployed at different levels by a company in different departments.
+
+www.BankExamsToday.Com
+
+Page 2
+
+IBPS Clerk Mains : Part - 1
+Manager
+
+Officer
+
+Department
+
+Number
+
+M:F
+
+Number
+
+M:F
+
+Operations
+
+2200
+
+7:4
+
+2800
+
+6:8
+
+Public relations
+
+1800
+
+5:4
+
+2500
+
+9 : 11
+
+Finance
+
+2500
+
+14 : 11
+
+3200
+
+17 : 15
+
+Advertising
+
+2900
+
+12 : 17
+
+1600
+
+9:7
+
+Sales
+
+2400
+
+9:7
+
+2600
+
+8:5
+
+Procurement
+
+2700
+
+5:4
+
+2200
+
+9 : 13
+
+16. The total number of female employees
+
+19. The total number of male officers in
+
+(Managers and Officers) in Procurement
+
+Advertising nad Sales departments is
+
+department is approximately by what per cent
+
+approximately what per cent the total number of
+
+more than their male counterparts?
+
+officers in these two department?
+
+1. 2%
+
+1. 55.8%
+
+2. 6%
+
+2. 56%
+
+3. 4%
+
+3. 57.5%
+
+4. 8%
+
+4. 54%
+
+5. 9%
+
+5. 59.5%
+
+17. The number of female managers in Finance
+department is what per cent of the total number
+of male managers in Sales department?
+1. 77%
+
+20. What is the different between the total
+
+2. 82%
+
+number of female officers in Advertising and
+
+3. 78%
+
+Public Relations department and the total
+
+4. 84%
+
+number of female managers in these two
+
+5. 81%
+
+department?
+1. 405
+
+18. What is the ratio of the total number of female
+
+2. 415
+
+managers in Operations and Finance departments
+
+3. 425
+
+to that of male officers in these two departments?
+
+4. 435
+
+1. 25:29
+
+5. 395
+
+2. 19:26
+3. 19:25
+
+21. What is the ratio of the total number of
+
+4. 19:29
+
+managers in Public relations, Finance, Sales and
+
+5. 22:29
+
+Operations department to the total number of
+
+www.BankExamsToday.Com
+
+Page 3
+
+IBPS Clerk Mains : Part - 1
+officers in Finance, Advertising. Sales and
+procurement department?
+1. 89:95
+2. 87:96
+3. 87:89
+4. 93:95
+5. 89:96
+
+Directions (22-26): Study the following pie - charts
+carefully and answer the questions given below:
+Percentage break up of the number of children in
+five different villages and break up of children
+Attending school from those villages
+22. What is the total number of children not
+attending school from village V₂ and V₃ together?
+1. 528
+2. 508
+3. 518
+4. 618
+5. 628
+23. The number of children attending school from
+village V₁ is approximate, what percent of the
+number of children from that village?
+1. 54%
+2. 56%
+3. 60%
+4. 53%
+5. 58%
+24. What is the approximate average number of
+children not attending school from village V₂, V₃
+and V₄ together?
+1. 269
+2. 258
+3. 264
+4. 270
+5. 266
+
+www.BankExamsToday.Com
+
+Page 4
+
+IBPS Clerk Mains : Part - 1
+25. The number of children not attending school
+
+26. What is the ratio of the total number of
+
+from village V₄ and V₅ is approximately what
+
+children from village V₄ to the number fo children
+
+percent of the total number of children from
+
+attending school from the same village?
+
+village V₄ and V₅ together?
+
+1. 22:21
+
+1. 43.65%
+
+2. 29:28
+
+2. 42.5%
+
+3. 29:21
+
+3. 48%
+
+4. 29:27
+
+4. 46%
+
+5. 23:21
+
+5. 49.45%
+
+Directions (27-31): Study the following pie- charts and table carefully and answer the questions given below:
+Details of students who scored from six schools of Delhi in Class XIIthe result:
+
+www.BankExamsToday.Com
+
+Page 5
+
+IBPS Clerk Mains : Part - 1
+
+Ratio of Girls to Boys
+School
+
+95 per cent and above
+
+Between 90-95 percent
+
+S₁
+
+11:5
+
+3:2
+
+S₂
+
+5:7
+
+1:4
+
+S₃
+
+3:5
+
+5:3
+
+S₄
+
+7:1
+
+2:3
+
+S₅
+
+5:4
+
+9:5
+
+S₆
+
+5:3
+
+3:4
+28. The number of girls of school S₂ who scored
+
+27. What is the difference between the no. of boys
+
+between 90-95 percent is approximately what
+
+who scored 95 percent and above from schools S₅
+
+percent of the no. of girls of school S₄ who scored
+
+and the no. of boys who scored between 90-95 per
+
+95 percent and above?
+
+cent from school S₅?
+
+1. 28.57%
+
+1. 115
+
+2. 22.46%
+
+2. 120
+
+3. 29.95%
+
+3. 100
+
+4. 35.48%
+
+4. 110
+
+5. 32.46%
+
+5. 125
+
+www.BankExamsToday.Com
+
+Page 6
+
+IBPS Clerk Mains : Part - 1
+29. The number of boys of school S₅ and S₆
+
+2. 506
+
+together who scored 95 percent and above is
+
+3. 518
+
+approximately what percent more or less than the
+
+4. 545
+
+number of girls of school S₂ and S₅ together who
+
+5. 556
+
+scored between 90-95 percent?
+1. 26% more
+
+31. What was the ratio of the number of boys of
+
+2. 22% more
+
+school S₃ who scored between 90-95 percent to
+
+3. 26% less
+
+the number of boys, who scored 95 percent and
+
+4. 24% more
+
+above in the same school?
+
+5. 32% less
+
+1. 5:9
+2. 10:17
+
+30. The average number of girls who scored 95
+
+3. 10:13
+
+percent and above from all the schools together
+
+4. 8:9
+
+is
+
+5. 12:17
+
+1. 503
+Directions (32-35): Study the following graph carefully and answer the questions given below:
+The line graph represents the percentage candidates qualifies in a competitive examination from 6 states
+during the given two years.
+
+The table given below represents the total number of candidates appeared, percentage of candidates
+qualified in all the six states together in the year 2013 and 2014.
+
+www.BankExamsToday.Com
+
+Page 7
+
+IBPS Clerk Mains : Part - 1
+Year
+
+Appeared
+
+Qualified
+
+2013
+
+1,42,000
+
+45%
+
+2014
+
+1,80,000
+
+52%
+
+Ratio of male to the female candidates qualified from different states in both the years.
+
+State
+
+2013
+
+2014
+
+S₁
+
+5:4
+
+28:17
+
+S₂
+
+3:1
+
+5:3
+
+S₃
+
+7:5
+
+11:5
+
+S₄
+
+13:11
+
+15:11
+
+S₅
+
+13:12
+
+15:9
+
+S₆
+
+8:1
+
+11:9
+4. 5940
+5. 5960
+
+32. The number of female candidates qualified
+from state S₂ in 2013 is approximately what per
+
+34. What is the ratio of the number of female
+
+cent of the male candidates qualified from S₁ in
+
+candidates qualified from states S₁ and S₃
+
+2014?
+
+together in 2013 to the number of male
+
+1. 16%
+
+candidates qualified from the same states in the
+
+2. 22%
+
+year 2014?
+
+3. 20%
+
+1. 8307:21844
+
+4. 14%
+
+2. 8407:21944
+
+5. 18%
+
+3. 8307:21944
+4. 8307:20894
+
+33. If in 2014 in state S₁ four female candidates
+
+5. 8037:29144
+
+qualified are not eligible then what is the average
+number of female candidates qualified from all
+
+35. What is the average number of candidates
+
+the states together in the year 2014?
+
+qualified from states S₂, S₃, S₄ and S₆ together in
+
+1. 5990
+
+the year 2013?
+
+2. 5900
+
+1. 9405.75
+
+3. 5920
+
+2. 9005.75
+
+www.BankExamsToday.Com
+
+Page 8
+
+IBPS Clerk Mains : Part - 1
+3. 9105.75
+4. 9505.75
+5. 9205.75
+
+1. 15 days
+2. 10 days
+3. 5 days
+4. 20 days
+
+36. A number when divided by 169 leaves 78 as
+
+5. 12 days
+
+remainder. what would be the remainder when
+the same number is divided by 13 ?
+1. 0
+2. 1
+3. 6
+4. 9
+5. 10
+
+39. What approximate value should come in place
+of the question mark (?) in the following
+questions. 25.675% of 1321 + 64.328% of 4001= ?
+1. 2890
+2. 2500
+3. 2690
+4. 1290
+
+37. wo trains start from stations A and B travel
+
+5. None of these
+
+towards each other at speeds of 50 km/hour and
+60 km/hour respectively . At the time of their
+meeting , the second train has travelled 120 km
+more than the first. The distance between A and B
+is
+1. 990 km
+2. 1200 km
+3. 1320 km
+4. 1440 km
+5. 1250 km
+
+38. P takes 10 days more than Q to complete a
+piece of work. If both of them can complete the
+work in 6(2/3 )days, in how many days can P alone
+complete the work?
+
+www.BankExamsToday.Com
+
+40. The difference between the simple interest
+received from two different sources on Rs. 1500
+for 3 years is Rs. 13.50. The difference between
+their rate of interest is
+1. 0.20%
+2. 0.15%
+3. 0.30%
+4. 0.20%
+5. 0.5%
+
+41. The ratio between the present ages of P and Q
+is 6:7. If Q is 4 years old than P. What will be the
+ratio of the ages of P and Q after 4 years?
+
+Page 9
+
+IBPS Clerk Mains : Part - 1
+1. 2:3
+
+1. 16/25
+
+2. 5:8
+
+2. 17/29
+
+3. 1:2
+
+3. 15/25
+
+4. 7:8
+
+4. 12/15
+
+5. None of these
+
+5. 10/25
+
+42. The average score of 11 matches is 50. If the
+
+45. The salaries of P,Q and R are in the ratio
+
+average score of first 6 matches is 49 and that of
+
+5:3:2.If the increments of 20% ,10% and 20% are
+
+last 6 is 52, find the sixth match score?
+
+allowed in their salaries, then what will be the
+
+1. 42
+2. 58
+3. 56
+4. 52
+5. 45
+
+new ratio of their salaries ?
+1. 20: 11: 18
+2. 20: 11:15
+3. 20:11:12
+4. 20:11:10
+5. None of these
+
+43. The Simple interest on a certain sum for 2
+years at 10% per annum is Rs. 90. The
+
+46. The cost of fencing a circular plot at the rate of
+
+corresponding compound interest is?
+
+Rs15 per m is Rs 6600. What will be the cost of
+
+1. 94.5
+2. 92.6
+3. 94.2
+4. 94.1
+5. 92.5
+
+flooring the plot at the rate of Rs 50 per sq m?
+1. 6,70,000
+2. 5,50,000
+3. 7,70,000
+4. 6,50,000
+5. 5,60,000
+
+44. A box contain 10 Black balls, 7 White balls and
+12 Red balls. A ball is drawn at random. What is
+
+47. Average weight of 20 men is 72 kgs, and the
+
+the probability that the ball drawn is either Black
+
+average weight of 34 women is 62.5 kgs. What is
+
+or White ?
+
+www.BankExamsToday.Com
+
+Page 10
+
+IBPS Clerk Mains : Part - 1
+the average weight (rounded off to the nearest
+
+50. A train has a length of 150 meters . it is passing
+
+integer) of all the men and the women together?
+
+a man who is moving at 2 km/hr in the same
+
+1. 52 kg
+2. 66 kg
+3. 63 kg
+4. 60 kg
+5. 50 kg
+
+direction of the train, in 3 seconds. Find out the
+speed of the train.
+1. 180 kmph
+2. 182 kmph
+3. 185 kmph
+4. 190 kmph
+5. 195 kmph
+
+48. Steve is older than Mark by 4 years. If the
+ratio of their current ages is 7:9, what will be the
+corresponding new ratio of their ages when Mark
+is twice as old as he is now?
+1. 2:3
+2. 1:4
+3. 2:5
+
+English
+Directions (51 –60): Read the following passage
+carefully and answer the questions given below it.
+India’s tourism industry is experiencing a strong
+period of growth, driven by the burgeoning Indian
+middle class, growth in high spending foreign tourists,
+
+4. 7:8
+
+and coordinated government campaigns to promote
+
+5. 6:8
+
+substantial and vibrant, and the country is fast
+
+‘Incredible India’. The tourism industry in India is
+becoming a major global destination. India’s travel
+and tourism industry is one of them most profitable
+
+49. A, B and C can do a work in 20, 30 and 60 days
+respectively. How many days does it need to
+complete the work if A does the work and he is
+
+industries in the country, and also credited with
+contributing a substantial amount of foreign
+exchange. This is illustrated by the fact that during
+
+assisted by B and C on every third day?
+
+2006, four million tourists visited India and spent US
+
+1. 10 days
+
+and prosperity of India’s travel and tourism industry.
+
+2. 12 days
+3. 8 days
+4. 15 days
+5. 5 days
+
+$8.9 billion. Several reasons are cited for the growth
+Economic growth has added millions annually to the
+ranks of India’s middle
+class, a group that is driving domestic tourism growth.
+Disposable income in India has grown by 10.11%
+annually from 2001-2006, and much of that is being
+spent on travel. Thanks in part to its booming IT and
+outsourcing industry a growing number of business
+trips are made by foreigners to India, who will often
+
+www.BankExamsToday.Com
+
+Page 11
+
+IBPS Clerk Mains : Part - 1
+add a weekend break or longer holiday to their trip.
+
+meaning of the word burgeoning as used in the
+
+Foreign tourists spend more in India than almost any
+
+passage?
+
+other country worldwide. Tourist arrivals are
+
+1) thriving
+
+projected to increase by over 22% per year through
+
+2) sprouting
+
+till 2010, with a 33% increase in foreign exchange
+
+3) incorporating
+
+earnings recorded in 2004.
+
+4) decreasing
+
+The Tourism Ministry has also played an important
+
+5) growing
+
+role in the development of the industry, initiating
+advertising campaigns such as the ‘Incredible India’
+
+52. Find the correct statement on the basis of the
+
+campaign, which promoted India’s culture and tourist
+
+given passage.
+
+attractions in a fresh and memorable way. The
+
+(A) The tourism industry in our country manages
+
+campaign helped create a colorful image of India in
+
+to attract the world tourist.
+
+the minds of consumers all over the world, and has
+
+(B) India has continued to represent a place much
+
+directly led to an increase in the interest among
+
+sought after for its diversity.
+
+tourists. The tourism industry has helped growth in
+
+(C) India has potential to emerge as one of the
+
+other sectors as diverse as horticulture, handicrafts,
+
+world's tourist hot spots.
+
+agriculture, construction and even poultry. Both
+
+1) Only (A)
+
+directly and indirectly, increased tourism in India has
+
+2) Only (C)
+
+created jobs in a variety of related sectors. The
+
+3) Both (A) and (B)
+
+numbers tell the story: almost 20 million people are
+
+4) All (A), (B) and (C)
+
+now working in the India’s tourism industry. India’s
+
+5) Other than given options
+
+governmental bodies have also made a significant
+impact in tourism by requiring that each and every
+
+53. Choose the word which is MOST SIMILAR in
+
+state of India have a corporation to administer
+
+meaning to the word "cited" as used in the
+
+support issues related to tourism. A new growth
+
+passage?
+
+sector is medical tourism. It is currently growing at
+
+1) pointed out
+
+around 30% per annum. Medical tourist arrivals are
+
+2) withheld
+
+expected to reach one million soon.
+
+3) inserted
+
+Medical tourism in Asia has grown rapidly. Medical
+
+4) imputed
+
+tourism is approaching fever pitch at the tune of $4
+
+5) sourced
+
+billion US, fuelled largely by the cosmetic surgery
+market. One of the problems India has, despite
+
+54. Which of the following statements correctly
+
+having some world-class hospitals, is sanitation. The
+
+represent (s) the reason behind the expansion of
+
+tourism industry of India is based on certain core
+
+India's travel and tourism Industry?
+
+nationalistic ideals and standards which are: Swaagat
+
+1) India is a vast country of great beauty and diversity.
+
+or welcome, Sahyog or cooperation, Soochanaa or
+
+2) India's vast cultural heritage
+
+information, Sanrachanaa or infrastructure, Suvidha
+
+3) The successful launch of very penetrative ad
+
+or facilitation, Safaai or cleanliness and Surakshaa or
+
+campaign
+
+security.
+
+4) Business trips to India
+5) All of the above
+
+51. Choose the word which is MOST OPPOSITE in
+
+www.BankExamsToday.Com
+
+Page 12
+
+IBPS Clerk Mains : Part - 1
+55. What is the meaning of the phrase "fever
+
+59. As mentioned in this passage, in order to
+
+pitch" as used in the passage?
+
+developing the tourism industry the role of the
+
+1) A high degree of excitement
+
+tourism ministry is
+
+2) A state of suffering
+
+1) Considerable
+
+3) Beyond the expectations
+
+2) Imperceptible
+
+4) Meeting the target
+
+3) Unique
+
+5) Other than given options
+
+4) Ambiguous
+5) Other than given options
+
+56. Which of the following is false in respect of
+India's medical tourism?
+
+60. Which of the following statement is true about
+
+1) India's medical tourism sector is expected to
+
+"Incredible India" campaign?
+
+experience an annual growth rate of 30%.
+
+1) It is a window policy to boost the direct as well as
+
+2) An estimated one million tourists will travel to India
+
+indirect investment in tourism.
+
+for healthcare procedures every year.
+
+2) It promotes India as a tourism destination.
+
+3) The advantage of medical treatment in India
+
+3) It pledges for best services in Air India and in Indian
+
+includes reduced costs not the availability of latest
+
+Rail.
+
+medical technologies.
+
+4) Only 1) and 2)
+
+4) All 1), 2) and 3)
+
+5) All 1), 2) and 3)
+
+5) Other than given options
+Directions (61 –70): Read the following passage
+57. Give a suitable title to the given passage.
+
+carefully and answer the questions given below
+
+1) Medical tourism in India
+
+it.
+
+2) Tourism Industry–A special focus of India
+3) Foreign tourist arrival and forex earning in India
+
+The last 10 years have seen an extraordinary
+
+4) Domestic Tourism in India
+
+quantum of interest and debate on the benefits and
+
+5) Employment Opportunities in Tourism
+
+dangers of modernisation of India’s retail sector,
+though never has this debate been shriller and more
+
+58. The author in the given passage is
+
+contentious than what has been seen in the past.
+
+A) skeptical about the growth of India's medical
+
+Unfortunately, no discussion has taken place even
+
+tourism
+
+once in these years on the importance of the retail
+
+B) of the view that lots of efforts can bring about
+
+sector to India (not only just the 15+ million
+
+significant changes in India's tour and travel
+
+independent retailers and street hawkers), the need
+
+industry.
+
+to make the producer to the consumer distribution
+
+C) not in favour of investing on various ads
+
+system more efficient and less wasteful, and how to
+
+1) Only A
+
+make these millions of independent retailers not only
+
+2) Only B
+
+relevant for tomorrow but actually increase their
+
+3) Only C
+
+numbers and enhance the economic and social
+
+4) Both A and C
+
+vibrancy of their vocation. Sadly, much more
+
+5) Both B and C
+
+attention has been misguidedly focused on just one
+single dimension of modernisation of the
+
+www.BankExamsToday.Com
+
+Page 13
+
+IBPS Clerk Mains : Part - 1
+distribution and retail infrastructure namely “foreign
+
+over ?
+
+direct investment”. And most of the rhetoric of recent
+
+First, our politicians, our bureaucrats, and our urban
+
+years has largely been on emotional and sometimes
+
+planners must realise the need and relevance of
+
+incorrect factual positions.
+
+providing for retail spaces in an integrated, holistic
+
+Private consumption has long been the larger
+
+planned way. At the very least, about 10-12 square
+
+constituent of India’s economy and even today, it
+
+feet of retail space is needed for every urban
+
+accounts for almost 60% of India’s GDP. Of this
+
+inhabitant. Urban agglomerations such as NCR,
+
+private consumption, more than 60% is what would
+
+Greater Mumbai, and Kolkata therefore require at
+
+constitute what we typically route through retail
+
+least 200 million square feet each of legalised retail
+
+channels.
+
+space .
+
+The fact is India’s retail story is not a zero sum game
+i.e. growth of new, modern, and sometimes larger in
+
+61. Which of the following is/ are the major
+
+scale retail businesses has to come at the expense of
+
+concern for India's retail sector ?
+
+decimation of the traditional, independent retail
+
+1) More attention is being paid to the possible role of
+
+business owners. Even at a real growth of 6% per year
+
+FDI.
+
+and inflation of about 5% for the next 15 years, India’s
+
+2) No efforts are made by the authority to enhance
+
+nominal GDP will be about $8,000 billion in 2026. The
+
+efficiency of retail distribution.
+
+size of India’s retail market would have also moved up
+
+3) The retailers are not regulated.
+
+from about $500 billion in 2011 to about $2,500
+
+4) The retail sector in India is a potential retail market
+
+billion in 2026.
+
+for employment prospects.
+
+Traditional retail currently accounts for as much as
+
+5) Both 1) and 2)
+
+about $475 billion of this market. Even if modern
+retail attracts as much as $150 billion in fresh direct
+
+62. What has/have been suggested by the author?
+
+and indirect investment (from within India and
+
+Answer in the context of the passage.
+
+overseas) over the next 15 years (i.e., $10 billion per
+
+(A) FDI should allowed only in a few restricted
+
+year), the size of modern retail business in India is not
+
+sectors.
+
+likely to cross $300-350 billion by 2026, implying that
+
+(B) New players should not be allowed to invest
+
+traditional retail will account for as much as $2,150-
+
+funds.
+
+2,200 billion in revenues (or more than four times of
+
+(C) There should be proper planning for the
+
+their current size).
+
+developing of retail sectors.
+
+Accounting for inflation and some increase in
+
+1) Only (A)
+
+productivity of traditional retailers, it can be very
+
+2) Only (B)
+
+confidently assumed that in the most optimistic of all
+
+3) Only (C)
+
+scenarios as far as investment in modern retail is
+
+4) Only (A) and (B)
+
+concerned, the numbers of independent retail outlets
+
+5) Only (B) and (C)
+
+in India will more than double by 2026 rather than
+show any decline whatsoever. If these facts are
+
+63. What does the author mean by 'zero sum
+
+understood , then what should India be doing to
+
+gain'?
+
+facilitate this retail consumption taking place in a
+
+1) Gain of branded retailers at the cost of traditional
+
+planned, organised manner rather than seeing
+
+retailers.
+
+millions of illegal retail establishments sprouting all
+
+2) Loss of some best retailers at the gain of others.
+
+www.BankExamsToday.Com
+
+Page 14
+
+IBPS Clerk Mains : Part - 1
+3) The number of retailers remain the same over the
+
+3) Proliferating
+
+period of time.
+
+4) Expanding
+
+4) Both 1 and 2
+
+5) Subsiding
+
+5) All 1 , 2 and 3
+68. What is the central idea of the given passage ?
+64. Which of the following is not contextual
+
+1) Impact of FDI on India's retail sector.
+
+according to the passage ?
+
+2) Growth in India's GDP.
+
+1) The modern retail will grow substantially but not
+
+3) Declining trend of traditional retail sector.
+
+relatively.
+
+4) Issues related to management of modernisation of
+
+2) Traditional retailer will evaporate in the course of
+
+India's retail sector.
+
+time.
+
+5) Other than given options
+
+3) Traditional retailer will grow relatively.
+4) Inflation will be a factor to attribute growth
+
+69. Give a suitable title to the above passage ?
+
+5) Other than given options
+
+1) Retailing in India
+2) Retail sector in India and growing e–commerce
+
+65. Choose the word which is MOST OPPOSITE in
+
+challenge
+
+meaning to the word 'decimation' as used in the
+
+3) Retail sector in India growing at phenomenal pace
+
+passage?
+
+4) India's retail sector: Missing the wood for the trees
+
+1) Annihilation
+
+5) FDI in retail sector in India
+
+2) Devastation
+3) Catastrophe
+
+70. Choose the word which is MOST SIMILAR in
+
+4) Holocaust
+
+meaning to the word 'contentious' as used in the
+
+5) Establishment
+
+passage?
+1) Submissive
+
+66. Which of the following is true according to the
+
+2) Complaisant
+
+passage ?
+
+3) Netted
+
+1) Retail market is the backbone of distribution
+
+4) Controversial
+
+system of the country.
+
+5) Agreeable
+
+2) Modernisation of India's retail sector is not that
+pious.
+3) Retail management is required to work with
+wholesale market as well as Internet sales.
+4) Independent retailer in the future market is a
+major concern.
+5) Other than given options
+67. Choose the word which is MOST OPPOSITE in
+meaning of the word 'sprouting' as used in the
+passage?
+1) Germinating
+2) Burgeoning
+
+www.BankExamsToday.Com
+
+Directions (71-75): The sentence has two blanks.
+Choose the words that best fit the meaning of the
+sentence as a whole.
+71. Roads in rural India___________ built _________
+millions of crores of rupees.
+1) are likely to be, with
+2) are being, in
+3) has been, with
+4) have been, for
+5) to be, within
+
+Page 15
+
+IBPS Clerk Mains : Part - 1
+72. ____ bad weather conditions in the final match,
+
+and would also (4)
+
+the batsman ____ the match alive.
+
+(a) 1, 2, 3, 4
+
+1) Despite, kept
+
+(b) 2, 4,3, 1
+
+2) Inspite of, was keeping
+
+(c) 3, 2, 4, 1
+
+3) Besides, kept
+
+(d) 4, 2, 1, 3
+
+4) Having, had kept
+5) Beyond, managed
+77. With the sole motive (1)/ are engaged in doing
+73. There is certainty ______ the corporation is
+
+home tuitions (2) / of clearing more money (3)/
+
+coming with a preference ______ higher quality.
+
+people cutting across professional lines (4)
+
+1) that, for
+
+(a) 1, 3, 4, 2
+
+2) like, of
+
+(b) 2, 4, 1, 3
+
+3) for, in
+
+(c) 4, 2, 1, 3
+
+4) to, for
+
+(d) 1, 3, 4, 2
+
+5) in, to.
+78. Sustained and patient effort (1)/ takes months
+74. The Pharma industry in Asia ___ flourished __
+
+or years of (2)/ building a community (3)/
+
+the last three decades.
+
+participation (4).
+
+1) have been ,in
+
+(a) 3, 4, 2, 1
+
+2) has ,in
+
+(b) 4, 3, 2, 1
+
+3) has been ,over
+
+(c) 1, 2, 3, 4
+
+4) had ,past
+
+(d) 4, 3, 1, 2
+
+5) None of these
+79. offer much scope for discussion (1)/ when an
+75. Women from poor households ____ included ____
+
+Indian writer (2) / the problems that arise (3)/ uses
+
+management group.
+
+English as his medium (4)
+
+1) have been ,from
+
+(a) 1, 2, 4, 3
+
+2) are , in
+
+(b) 3, 2, 4, 1
+
+3) has been , by
+
+(c) 2, 4, 1, 3
+
+4) are , at
+
+(d) 3, 2, 1, 4
+
+5) had been , from
+80. But it must be realised that (1) / it is true that
+Directions (76-80) In the following questions, a
+sentence , split into four parts, has been given.
+But the parts are in the wrong order. Choose the
+best order which produces the original
+sentence out of four alternatives.
+76. to dispose off the waste matter (1) / the
+
+(2) / this is not because all is well with them (3)/
+many Delhites do not complain about water
+shortage (4).
+(a) 1, 2, 4, 3
+(b) 1, 4, 2, 3
+(c) 2, 4, 1, 3
+(d) 4, 3, 1, 2
+
+modernisation would reduce (2) / provide better
+sanitary facilities (3)/ manual labour considerably
+
+www.BankExamsToday.Com
+
+Page 16
+
+IBPS Clerk Mains : Part - 1
+Directions (81-85): In the following exercise, a
+
+d) gets
+
+sentence is divided into various parts with (/) sign.
+
+e) originates
+
+You have to identify which part of the sentence
+contains the error. If the sentence is error free,
+
+88. Mendicant
+
+then choose NO Error option.
+
+a) beggar
+b) saint
+
+81. (A) Langar said the work/(B) showed that
+
+c) worker
+
+endothelial cells/ (C) could line veins, arteries and
+
+d) scholar
+
+lymph tissues/.(D) No Error
+
+e) gate keeper
+
+82. (A) Technical innovations and
+experiments/(B) with alternative ways of providing
+infrastructure/ (C) indicates the different
+principals./(D) No Error
+83. (A) The aim of Baconian/(B) philosophy was to
+provide/ man with what he required / (C) while he
+continued to be a man./(D) No Error
+84. (A) Bacon fixed his eye/(B) on a mark which was
+placed/(C) on the earth and hits it in the white./(D) No
+Error
+85. (A) The martyrs who laid down their life/(B) for the
+freedom of our country/,(C) had a lofty vision of the
+future/.(D) No Error
+Direction (86-88) Choose the word which is MOST
+
+Directions (89-90): Choose the word which is MOST
+OPPOSITE in meaning (ANTONYM) from the given
+options.
+89. Steadfastness
+a) stability
+b) firmness
+c) industriousness
+d) resolute
+e) flexibility
+90. Picturesque
+a) dull
+b) vivid
+c) shining
+d) bright
+e) glittering
+
+SIMILAR in meaning ( SYNONYM) from the given
+options.
+86. Perched
+
+Reasoning
+
+a) sitting
+b) dried
+c) hungry
+d) placed
+e) wet
+87. Derives
+a) arises
+b) deduces
+
+Directions (Q. 91-95): In each of the following
+questions below are given some statements followed
+by some conclusions. You have to take the given
+statements to be true if they seem to be at variance
+with commonly known facts. Read all the conclusions
+and then decide which one of the given conclusions
+logically definitely does not follow:
+
+c) reaches
+
+www.BankExamsToday.Com
+
+Page 17
+
+IBPS Clerk Mains : Part - 1
+All smarts are electronic vans.
+91. Statements:
+
+Conclusions:
+
+All soils are stones.
+
+1) No electronic van is a smart.
+
+Some stones are hills.
+
+2) Some metroes are electronic vans.
+
+All mountains are not clouds.
+
+3) Some trains being electronic vans is a possibility.
+
+Conclusions:
+
+4) Some electronic vans are buses is a possibility
+
+l) Some soils being clouds is a possibility.
+
+5) Some trains are buses.
+
+2) Some soils are hills is a possibility.
+3) No stone is cloud.
+
+95. Statements :
+
+4) All mountains being stones is a possibility.
+
+All apples are oranges
+
+5) No stone is a soil.
+
+All apples are not papayas.
+Some papayas are guavas.
+
+92. Statements:
+
+Some oranges are sweets.
+
+Some waters are streams.
+
+Conclusions:
+
+All streams are canals.
+
+l) All apples being sweets is a possibility.
+
+All canals are rivers,
+
+2) All guavas are sweets
+
+Some streams are ponds.
+
+3) All sweets being guavas is a possibility.
+
+Conclusions:
+
+4) Some papayas are not apples.
+
+l) All ponds are canals.
+
+5) No orange is sweet.
+
+2) All canals are pond is a possibility
+3) All streams are rivers.
+4) All canals are waters is a possibility.
+5) All streams are not canals.
+93. Statements:
+Some trees are forests.
+Some forests are animals.
+All herbivores are pets.
+All animals are not herbivores.
+Conclusions:
+1) Some trees are animals.
+2) No pet is a herbivore.
+3) Some trees are animals is a possibility.
+4) All herbivores being trees is a possibility.
+5) All forest being animals is a possibility.
+94. Statements :
+Some buses are trains.
+Some trains are metroes.
+Some metroes are smarts.
+
+www.BankExamsToday.Com
+
+Directions (96 -100) Study the following
+information carefully and answer the given
+questions.
+Eight Friends Parkash, Qartar, Ram, Sooraj, Takshay,
+Vanketesh, Wasir and Zubaid out of whom one is a
+pilot, professor, businessman, doctor, lawyer, banker,
+cricketer or an architect (but not necessarily in the
+same order) are sitting around a circular table facing
+the center. Sooraj who is a banker sits third to right of
+Zubaid.
+The professor and the architect are immediate
+neighbors of each other. Neither the professor nor
+the architect is an immediate neighbor of either
+Zubaid or Sooraj.Cricketer and the pilot are
+immediate neighbors of each other. Neither Zubaid
+nor Wasir is a pilot. The one who is a professor sits
+second to the right of Takshay who is a lawyer.
+Vanketesh who is a cricketer is not an immediate
+neighbor of the banker. Only Ram sits between the
+
+Page 18
+
+IBPS Clerk Mains : Part - 1
+professor and the doctor. Parkash sits third to the
+right of the pilot.
+
+Directions (101 -105): Read the following
+
+96. Which of the following pairs represents the
+
+information carefully to answer the given
+
+immediate neighbors of the doctor?
+
+questions.
+
+a) Professor - Businessman
+b) Pilot - Professor
+c) Cricketer - Businessman
+
+
+
+Farah, Gulrejr and Humayun are seated in
+
+d) Lawyer - Architect
+e) None of The Above
+97. What is the position of the businessman with
+respect to the pilot?
+
+straight line facing north.
+
+
+c) Immediately to the right
+d) Fourth to the right
+
+Changez sits fourth to the left of Gulrej. Dayud
+sits second to right of Gulrej.
+
+
+
+Only two people sit between Dayud and Akram.
+Bakhtawar and Farah sits adjacent to each
+
+a) Third to the left
+b) Second to the left
+
+Akram, Bakhtawar, Changez, Dayud, Ekam,
+
+other.
+
+
+Humayun is not an immediate neighbor of
+Dayud.
+
+e) Second to the right
+101. Who among the following sits exactly in the
+98. Who sits third to the right of the professor?
+
+middle of the persons who sit fifth from the left
+
+a) The Banker
+
+and the person who sits sixth from the right?
+
+b) Qartar
+c) The Cricketer
+d) The Lawyer
+e) None of The Above
+
+a) Changez
+b) Humayun
+c) Ekam
+
+99. Which of the following is true regarding Ram?
+a) He is a doctor
+b) He is an immediate neighbor of the Pilot
+
+d) Farah
+e) None of The Above
+
+c) Ram sits between Qartar and Takshay
+d) He is an immediate neighbor of the professor
+e) None is true
+
+102. Who among the following sits third to the
+right of Changez?
+
+100. How many people sit between the Banker
+and Wasir when counted in anti - clockwise
+direction from the banker?
+a) None
+b) One
+c) Two
+d) Three
+e) None of The Above
+
+www.BankExamsToday.Com
+
+a) Bakhtawar
+b) Farah
+c) Akram
+d) Ekam
+e) None of The Above
+
+Page 19
+
+IBPS Clerk Mains : Part - 1
+are good friends and are studying in M.Com, M.A. and
+103. Which of the following represents persons
+seated at the two extreme ends of the line?
+
+M.Sc courses. Three are doing M.Com, two are in M.A.
+and another two are in M.Sc. Each of them has a very
+distinct and favorite color choice ranging from blue,
+
+a) Changez and Dayud
+
+red, yellow, white, black, pink and brown but not
+
+b) Akram and Bakhtawar
+
+either red or black. Morya is doing M.A. and he likes
+
+c) Bakhtawar and Gulrej
+
+necessarily in the same order. None doing M.Com like
+blue. Ram is doing M.Sc and likes brown. Jeeva is
+doing M.Com and likes yellow. Paramjit who does not
+
+d) Dayud and Humayun
+
+like red is in the same discipline of Ram. Tarun is in
+
+e) None of The Above
+
+pink.
+
+the same discipline of Morya. Vaani does not like
+
+106. Which among the following groups is doing M.
+104. What is the position of Humayun with respect
+
+Com?
+
+to Farah?
+
+a) Jeeva, Vaani and Waqar
+
+a) Third to the Left
+b) Immediate Right
+c) Second to Right
+d) Fourth to Left
+e) None of The Above
+
+b) Vaani, Waqar and Tarun
+c) Jeeva, Vaani and Tarun
+d) Jeeva, Paramjit and Ram
+107. What is the color combination choice of those
+who are in M.Sc discipline?
+a) Brown and Pink
+b) Black and White
+c) Black and Brown
+d) Yellow and Black
+
+105. How many persons are seated between
+Akram and Ekam?
+
+e) None of The Above
+108. Which color does Vaani like?
+
+a) One
+
+a) Yellow
+
+b) Two
+
+c) White
+
+c) Three
+
+b) Pink
+d) Brown
+e) None of The Above
+
+d) Four
+e) None of The Above
+
+109. What is the color combination choice of those
+who are in M.A. discipline?
+a) Red and Black
+b) Blue and Red
+
+Directions (106- 110): Seven persons namely
+
+c) Blue and Black
+
+Paramjit, Tarun, Morya, Jeeva, Vaani, Ram and Waqar
+
+d) None of The Above
+
+www.BankExamsToday.Com
+
+Page 20
+
+IBPS Clerk Mains : Part - 1
+(b) 4 years
+110. Morya is related with which discipline?
+a) M.Sc.
+b) M.A.
+c) M.Com
+d) M.BA
+
+(c) 6 years
+(d) All of the above
+(e) None of these
+
+e) None of these
+
+111. Anita is 24. She is twice as old Bala was, when
+she was as old as Bala is now. What is Bala's
+present age?
+(a) 14 years
+(b) 16 years
+(c) 20 years
+(d) 18 years
+(e) None of these
+
+112. Today is Saurabh's birthday. One year from
+today he will be twice as old as he was 10 years
+ago. How old is Saurabh today?
+(a) 20 years
+(b) 22 years
+(c) 21 years
+(d) 19 years
+(e) None of these
+
+113. Chinku is twice as old as Guddu and four
+years older than kittu. kittu is eight. How old is
+Guddu?
+(a) 2 years
+
+www.BankExamsToday.Com
+
+114. The ages of Mohani, Rohani and Sohani total
+47 years. what was the total of their ages three
+years ago?
+(a) 44 years
+(b) 38 years
+(c) 41 years
+(d) 40 years
+(e) None of these
+
+115. Three years ago, Rashmi was 5 years older
+than Diwan. what is the difference between their
+ages today?
+(a) 3 years
+(b) 4 years
+(c) 5 years
+(d) 2 years
+(e) None of these
+
+Directions ( 116- 120): A number arrangement
+machine when given an input line of numbers
+rearranges them following a particular rule in
+each step. The following is an illustration of input
+and rearrangement.
+
+Page 21
+
+IBPS Clerk Mains : Part - 1
+119. Which word/number will be at 4th from the
+Input : where age 42 earn 17 Money in daddy 7 9
+
+left in step V for the given input in above
+
+Step I : age when 42 earn 17 Money in daddy 7 9
+
+question?
+
+Step II : age 42 we earn 17 Money in daddy 7 9
+
+(1) 41
+
+Step III : age 42 earn we 17 Money in daddy 7 9
+
+(2) danger
+
+Step IV : age 42 earn 7 we 17 Money in daddy 9
+
+(3) open
+
+Step V : age 42 earn 7 in we 17 Money daddy 9
+
+(4) 15
+
+Step VI : age 42 earn 7 in daddy we 17 Money 9
+
+(5) None of these
+
+Step VII : age 42 earn 7 in 17 daddy we Money 9
+Step VIII : age 42 earn 7 in 17 daddy 9 we Money
+
+120. Which word/number will be 3rd to the right of
+
+Step IX : age 42 earn 7 in 17 daddy 9 Money we
+
+‘41’ in step IV for the given input in Q. 3?
+(1) open
+
+Step IX is the last step.
+
+(2) danger
+(3) 15
+
+116. If the following is the II nd step of an input
+
+(4) 17
+
+what will be Vth step?
+
+(5) None of these
+
+Step II : After 89 she 38 wins 11 Olympic 22 the 7
+(1) after 89 she 7 the 22 Olympic 11 wins 38
+
+121. P's father is Q's son .M is the paternal uncle
+
+(2) after 89 Olympic she 38 wins 11 22 the 7
+
+of P and N is the brother of Q .How is N related to
+
+(3) after 89 Olympic 7 she 38 the wins 11 22
+
+M?
+
+(4) after 89 Olympic 7 she 38 the 11 wins 22
+(5) None of the above
+117. Which of the following is the last step for the
+Input ‘eat 9 fast icecream 22 3 umbrella cat 5’?
+(1) cat eat 9 fast 5 icecream 22 umbrella 3
+(2) eat 22 icecream 3 umbrella 9 cat 5 fast
+(3) eat 22 umbrella 3 icecream 9 cat 5 fast
+(4) eat 22 icecream 3 umbrella5 cat 9 fast
+
+(a) Brother
+(b) Nephew
+(c) Cousin
+(d) Data inadequate
+(e) None of the above
+
+(5) None of the above
+118. Which step will be the last step for the Input
+‘elephant 17 free open 41 27 danger 15’?
+(1) IV
+(2) V
+(3) VI
+(4) VII
+(5) None of these
+
+122. B is the husband of P. Q is the only grandson
+of E, Who is wife of D and mother - in-law of P.
+How is B related to D?
+(a) Cousin
+(b) Son -in-law
+(c) Son
+(d) Nephew
+(e) None of these
+
+www.BankExamsToday.Com
+
+Page 22
+
+IBPS Clerk Mains : Part - 1
+Directions( 126 – 130): In each of the following
+123. A retiring President was asked who would
+succeed him as head of the firm , and he replied
+,"The father of my successor is my father's son,
+but I have no brothers or sons."Who will succeed
+him ?
+
+questions two statements (A) and (B) are given.
+These statements may be either independent
+causes or may be effects of independent causes or
+a common cause.
+One of these statements may be the effect of the
+other statement. Read both the statements and
+
+(a) Himself
+
+decide which of the following answer choice
+
+(b) His nephew
+
+two statements
+
+(c) his Daughter
+(d) His sister
+
+correctly depicts the relationship between these
+Give answer
+(1) if statement (A) is the cause and statement (B) is its
+effect
+(2) if statement (B) is the cause and statement (A) is its
+effect
+
+124. Looking at a portrait, a man said ,"That man's
+father is my father's son. Brothers and Sisters I
+have none." At whose portrait was the man
+looking ?
+
+(3) if both the statements (A) and (B) are independent
+causes
+(4) if both the statements (A) and (B) are effects of
+independent causes
+(5) if both the statements (A) and (B) are effects of
+
+(a) His own
+
+some common causes
+
+(b) His son's
+
+126. A. The local administration announces to
+
+(c) His father's
+(d) His uncle's
+
+block many roads of the town for one day owing
+to influx of many pilgrims.
+B. Many schools of the town declared holiday on
+the day. Pilgrims came to the town.
+
+125. Pointing to the lady in the photograph ,
+Seema said, "Her son's father is the son-in-law of
+my mother." How is Seema related to the lady?
+
+127. A. The prices of vegetables have reduced
+considerably during the past two weeks.
+B. The prices of foodgrains have reduced
+considerably during the past two weeks.
+
+(a) Sister
+(b) Mother
+(c) Cousin
+(d) Aunt
+
+128. A. The employees of an union of an
+organizations have appealed to its members to
+give their best to boost production in the coming
+months.
+B. The management of an organization has
+announced productivity linked bonus for its
+employees.
+
+www.BankExamsToday.Com
+
+Page 23
+
+IBPS Clerk Mains : Part - 1
+129. A. The production of wheat during the
+
+II. Opendar is 30 year old
+
+current year breaks all the past records.
+B. The production of wheat in last year was
+
+133. How many students are there in the class?
+
+much less than the production in the previous
+
+I. There are more than 20 but less than that 27
+
+year.
+
+students in the class.
+II. There are more than 24 but less than 31 students
+
+130. A. The large shareholders of the company
+
+in the class. The number of students in the class can
+
+decided to buy the share of small shareholders.
+
+be divided into groups such that each group contains
+
+B. The company is suffering loss for the last
+
+5 students.
+
+three quarters.
+134. Among five friends - Jatin, Kalu, Lucky,
+Manish and Naresh each of a different height,
+Directions(131 – 135) - Each of the following
+questions below consists of a question and two
+statements numbered I and II given below it. You
+have to decide whether the data provided in the
+statements are sufficient to answer the question.
+Give Answer
+a) If the data in Statement I alone are sufficient to
+answer the question, while the data in Statement II
+alone are not sufficient to answer the question
+
+who is the second tallest?
+I. Naresh is taller than Manish and Kalu. Kalu is
+shorter than Manish.
+II. Lucky is taller than Naresh. Jatin is not the tallest.
+135. How is 'call' written in a code language?
+I. 'call me back' is written as '531' in that code
+language.
+II. 'you can call me any time' is written as '94163' in
+that code language
+
+b) If the data in Statement II alone are sufficient to
+answer the question,while the data in Statement I
+alone are not sufficient to answer the question
+c) If the data either in Statement I alone or Statement
+II alone are sufficient to answer the question
+d) If the data in both the Statement I and II together
+are not sufficient to answer the question
+e) If the data in both the Statement I and II are
+together necessary to answer the question
+
+Direction
+
+(136-140):
+
+Study
+
+the
+
+information
+
+carefully and answer the questions given below:
+In a certain code language 'jo bi la de’ stands for ‘top
+school produces winner’; ‘cr la tu fy’ stands for ‘winner
+in every form’; ‘fy cr hr ek’ stands for ‘every college in
+area’; ‘mu de cr ek’ stands for ‘every school area
+secured’.
+
+131. What is the difference in the age of Paarth
+
+136. Which of the following word stands for
+
+and Keshav?
+
+'college'?
+
+I. Paarth is 20 years older than Mohan
+
+a) de
+
+II. Mohan is 2 years younger than Zorawar
+
+b) jo/bi
+c) hr
+
+132. The sum of ages of Manak, Neesha and
+
+d) mu
+
+Opendar is 50 years. What is Neesha's age?
+
+e) la
+
+I. Neesha is 10 year older than Manak
+
+www.BankExamsToday.Com
+
+Page 24
+
+IBPS Clerk Mains : Part - 1
+137. What does 'fy' stands for?
+a) every
+
+142. The government of India recently decided to
+
+b) secured
+
+allow Currency Futures in India. In addition to
+
+c) college
+
+Ministry of Finance which is/are the other
+
+d) winner
+
+organisation(s) Whose permission/approval is
+
+e) in
+
+needed for such operations in India ?
+1. International Monetary Fund (IMF)
+
+138. What is the code for "winner form
+
+2. Reserve Bank of India (RBI)
+
+university"?
+
+3. Securities and Exchange Board of India ( SEBI)
+
+a) de cr mu
+
+A. Only 1
+
+b) la tu de
+
+B. Only 2
+
+c) la hr tu
+
+C. Only 3
+
+d) la tu xo
+
+D.Only 2 and 3
+
+e) la tu jo
+143. The Reserve Bank of India has decided to help
+139. If "curriculum in school" coded as "rt fy de",
+
+banks, as a temporary measure , by providing
+
+then what is the code for "curriculum"?
+
+additional liquidity support under LAF. What is
+
+a) rt
+
+the full form of LAF ?
+
+b) fy
+
+(a) Loan Adjustment Fund
+
+c) de
+
+(b) Liquidity Adjustment Facility
+
+d) hr
+
+(c) Long Awaited Funds
+
+e) fy/de
+
+(d) Loan Against Funds
+
+140. What does 'jo' stands for?
+
+144. Which of the following is/are different
+
+a) top
+
+categories of Inflation ?
+
+b) secured
+
+1. Open and suppressed
+
+c) producers
+
+2. Cost push
+
+d) top/producers
+
+3. Demand pull
+
+e) area
+
+A. Only 1
+B. Both 1 and 2
+C. Both 2 and 3
+
+General Awareness
+141.Many times we see in newspapers that some
+projects are launched by the government
+authorities on 'PPP' basis .What is the full from of
+PPP ?
+(a) Preferential Payment Plan
+(b) Public-Private Partnership
+(c) Partial Payment Project
+
+D. All of these
+145. The process of the total valuation of the
+Financial capital assets of a country is technically
+known as :
+(a) Market Capitalization
+(b) Gross Domestic product
+(c) Net wealth of the country
+(d) Gross Domestic Resources
+
+(d) Popular Private Project
+
+www.BankExamsToday.Com
+
+Page 25
+
+IBPS Clerk Mains : Part - 1
+146. Very often we read about special Economic
+
+(b) To collect reasonable service charges from the
+
+Zones (SEZs) in newspapers. what was the purpose
+
+customer in a transparent manner for providing the
+
+of promoting SEZs in India ?
+
+services
+
+1. They are established to promote exports.
+
+(c) To ask the banks to open at least 50 new accounts
+
+2. They are established to attract investment from
+
+daily in non serviced areas
+
+foreign countries
+
+(d) Only A & B'
+
+3. They are established to help poorest of the poors in
+India as the activities of these zones are reserved only
+
+150. The bank rate means :
+
+for poors and those living below poverty line
+
+(a) Rate of interest charged by commercial banks
+
+A.. Only 1
+
+from borrowers
+
+B. Only 2
+
+(b) Rate of interest at which commercial banks
+
+C. Only 3
+
+discounted bills of their borrowers
+
+D. Both A and B only
+
+(c) Rate of interest allowed by commercial banks on
+their deposits
+
+147. Which of the following is the full form of the
+
+(d) Rate at which RBI purchases or rediscounts bills of
+
+term SLR as used in the banking sector ?
+
+exchange of commercial banks
+
+(a) Social Lending Ratio
+(b) Statutory Liquidity Ratio
+
+151. Which of the following is/are true about the
+
+(c) scheduled Liquidity Rate
+
+sub-Prime crists "?
+
+(d) None of these
+
+1. It is a Mortgage Crisis referring to credit default by
+the borrowers
+
+148. When the common people of a nation start
+
+2. Sub-Prime Borrowers were those borrowers who
+
+getting very high salary or wages , the
+
+werre rated low and were high risk borrowers
+
+consumption of the goods like eatables and white
+
+3. This crisis originated of neglience in credit rating of
+
+goods, also start increasing .This situation brings
+
+the borrowers
+
+which of the following types of inflation in the
+
+A. Only 1
+
+economy ?
+
+B. Only 2
+
+1. Cost push inflation
+
+C. Only 3
+
+2. Demand pull inflation
+
+D. All of these
+
+3. Low inflation
+A. Only 1 & 3
+
+152. Many times we read about Future Trading in
+
+B. Only 2
+
+newspaper .What is Future Trading ?
+
+C. Only 3
+
+1. It is nothing but a trade between any two stock
+
+D. All of these
+
+exchanges where in it is decided to purchase the
+stocks of each other on a fixed price throughout the
+
+149. Which of the following decisions taken by the
+
+year.
+
+RBI will promote the concept of financial inclusion
+
+2. It is an agreement between two parties to buy and
+
+in the country ?
+
+sell an underlying asset in the future at a
+
+(a) To appoint some additional entities as business
+
+predetermined price
+
+correspondents
+
+www.BankExamsToday.Com
+
+Page 26
+
+IBPS Clerk Mains : Part - 1
+3. It is agreement between stock exchange that they
+
+d. Rajendra Mal Lodha
+
+will not trade the stocks of each other under any
+circumstances in future or for a given period of time
+
+157. Who has been named as TIME person of the
+
+A. only 1
+
+year 2016
+
+B. Only 2
+
+a. Narendra Modi
+
+C. Only 3
+
+b. Donald Trump
+
+D. All of these
+
+c. Hilary Clinton
+d. Barack Obama
+
+153. Which of the following correctly describes
+the concept of 'Nuclear Bank' floated by
+
+158. Union Cabinet approves Metro Rail Project at
+
+International Atomic Energy Agency ?
+
+a. Mumbai
+
+1. It is nuclear fuel bank to be shared by all the nation
+
+b. Chennai
+
+jointly.
+
+c. Chandigarh
+
+2. It is a facility to help nations in enrichment of
+
+d. Pune
+
+uranium
+3. It is an agency which will keep a close vigil on the
+
+159. Recently ISRO launched Remote sensing
+
+nuclear programme of all the nations
+
+satellite, what is the name of this satellite
+
+A. Only 1
+
+a. Resourcesat-2A
+
+B. Only 2
+
+b. Resourcesat-3A
+
+C. Both 1 and 3 only
+
+c. Resourcesat-2B
+
+D. Only 3
+
+d. Resourcesat-2D
+
+154. One of the major emphasis of basel II is that
+
+160. Boliver is the currency of
+
+banks should have :
+
+a. Chile
+
+(a) adequate Capital adequacy Ratio
+
+b. Argentina
+
+(b) Only few branches in urban centres
+
+c. Venezuela
+
+(c) more and more branches in rural areas
+
+d. Uruguay
+
+(d) core banking mode of operations
+161. Which Indian boxer will receive Legends
+155. Who the current governor of Reserve Bank of
+
+Award' by Amateur International Boxing
+
+India ?
+
+Association (AIBA) ?
+
+a. Urjit Patel
+
+a. MC Mary Kom
+
+b. Raghuram Rajan
+
+b. Vijender Singh
+
+c. D. Subbarao
+
+c. Akhil Kumar
+
+d. Y. V. Reddy
+
+d. Hawa Singh
+
+156. Who is the Chief Justice of India
+
+162. Who has been named as the Best Actor at the
+
+a. J. S. Khehar
+
+10th Asia Pacific Screen Awards held in Brisbane,
+
+b. H. L. Dattu
+
+Australia
+
+c. T. S. Thakur
+
+a. Sanjeev Kumar
+b. Ashok Kumar
+
+www.BankExamsToday.Com
+
+Page 27
+
+IBPS Clerk Mains : Part - 1
+c. Manoj Bajpayee
+
+b. Rajeev Kapoor
+
+d. Om Puri
+
+c. Ravi Shankar Prasad
+d. Raj Nath Singh
+
+163. India's first underwater festival to be held in
+a. Assam
+
+169. World Robot Olympiad 2016 to be held at
+
+b. Pune
+
+a. Manipur
+
+c. Bihar
+
+b. Nagaland
+
+d. Goa
+
+c. New Delhi
+d. Sikkim
+
+164. Who won 'Peter England Mr India' pageant
+a. Vishnu Raj Menon
+
+170. The govt will open how many Jan Aushadhi
+
+b. Amit Khanna
+
+stores in 2016-17 across the country?
+
+c. Nivedita Saboo
+
+a) 500
+
+d. Manoj Bajpayee
+
+b) 1,000
+c) 1,500
+
+165. Who holds Cabinet Law Ministry in India
+
+d) 3,000
+
+a. Raj Nath Singh
+b. Manohar Parikar
+
+171. The World Intellectual Property Day is
+
+c. Kalraj Mishra
+
+observed on
+
+d. Ravi Shankar Prasad
+
+a) 26 Apr
+b) 24 Apr
+
+166. Samvidhan Diwas or the Constitution Day of
+
+c) 22 Apr
+
+India is being observed on
+
+d) 20 Apr
+
+a. 26th November
+b. 22th November
+
+172. The regulation and supervision of the
+
+c. 18th November
+
+functions of Co-operative banks and RRBs rests
+
+d. 15th November
+
+with the
+a) NABARD
+
+167. Union Government has constituted a new
+
+b) NHB
+
+committee to form a strategy to expedite the
+
+c) SIDBI
+
+process of transforming India into a cashless
+
+d) SBI
+
+economy. Who is the head of this committee
+a. Jagat Prakash Nadda
+
+173. Rand is the currency of which of the following
+
+b. Harsh Vardhan
+
+countries?
+
+c. Amitabh Kant
+
+a) Brazil
+
+d. Vijay Goel
+
+b) Malaysia
+c) Philippines
+
+168. Who has been appointed as new Director of
+
+d) South Africa
+
+Lal Bahadur Shastri National Academy of
+Administration (LBSNAA) at Mussoorie.
+
+174. The committee set up for doubling farmers’
+
+a. Upma Chowdhary
+
+income by 2022 is headed by
+
+www.BankExamsToday.Com
+
+Page 28
+
+IBPS Clerk Mains : Part - 1
+a) Abhay Kumar Singh
+b) Durga Sakthi Nagpal
+
+180. A semiconductor device can perform the
+
+c) Anil Goswami
+
+function of a(n)
+
+d) Ashok Dalwai
+
+a) vacuum tube
+b) Super conductor
+
+175. The training exercise, Nomadic Elephant-
+
+c) insulator
+
+2016, was held recently between India and
+
+d) All the above
+
+a) US
+b) Japan
+c) South Korea
+
+Computer Awareness
+
+d) Mongolia
+181. In which generation of computer, Integrated
+176. ________ is set to print its own version of the US
+
+Circuit was introduced?
+
+dollar in order to ease a cash shortage in the
+
+1. First Generation
+
+country.
+
+2. Second Generation
+
+a) Cuba
+
+3. Third Generation
+
+b) Zimbabwe
+
+4. Fourth generation
+
+c) Colombia
+
+5. Fifth Generation
+
+d) Chile
+182. What is called the sharing of a medium and
+177. Rrom Apr 2016, the IRDA has allowed banks
+
+its path by 2 or more devices?
+
+to tie up with _______ insurer(s) in each category of
+
+1. Multiplexing
+
+life, non-life and standalone health.
+
+2. Multiprocessing
+
+a) One
+
+3. Multi-operating
+
+b) two
+
+4. Multitasking
+
+c) three
+
+5. Multisharing
+
+d) five
+183. What is used to save a document in different
+178. The book titled ‘Ace Against Odds’ is the
+
+locations?
+
+autobiography of
+
+1. Save
+
+a) Saina Nehwal
+
+2. Save as
+
+b) Mary Kom
+
+3. Insert
+
+c) Sania Mirza
+
+4. Enter
+
+d) Chanda Kochhar
+
+5. New
+
+179. Name the recently added 189
+
+th
+
+member of
+
+184. What is the full form of 'RAID'?
+
+the IMF and the World Bank
+
+1. Random Access of Inexpensive disks
+
+a) Nauru
+
+2. Redundant Array of Inexpensive data
+
+b) South Sudan
+
+3. Random Array of Inexpensive data
+
+c) Honshu
+
+4. Random Array of Internet data
+
+d) Luzon
+
+5. Redundant Array of Inexpensive disks
+
+www.BankExamsToday.Com
+
+Page 29
+
+IBPS Clerk Mains : Part - 1
+1. MSN
+185. The combination of ALU and Control Unit
+
+2. Mozilla
+
+jointly known as
+
+3. Chrome
+
+1. Hard disk
+
+4. Mosaic
+
+2. Monitor
+
+5. Internet explorer
+
+3. CPU
+4. UPS
+
+191. Are we building the right product? This
+
+5. Software
+
+statement refers to
+1. Verification
+
+186. What is called, a concentric circle on a disk?
+
+2. Validation
+
+1. Sector
+
+3. Testing
+
+2. Track
+
+4. Software quality assurance
+
+3. Section
+
+5. None of these
+
+4. Arc
+5. Directory
+
+192. BCC in the internet refer to
+1. Blind Carbon Copy
+
+187. Which key launched the start button?
+
+2. Black Carbon Copy
+
+1. Windows
+
+3. Blank Carbon Copy
+
+2. Esc
+
+4. Blue Carbon Copy
+
+3. Shift
+
+5. None of these
+
+4. Function key
+5. Num lock
+
+193. Which of the following is the correct use of
+Buffer or Block cashes?
+
+188. A computer professional who writes and tests
+
+1. Improve disk performance
+
+software are called a
+
+2. Handle interrupts
+
+1. hardware consultant
+
+3. Increase the capacity of main memory
+
+2. librarian
+
+4. Speed up main memory read operations
+
+3. hardware consultant
+
+5. None of these
+
+4. computer operator
+5. data entry operator
+
+194. The principal electronic payment systems for
+electronic commerce is
+
+189. Which function key is used to refresh the
+
+1. Credit card
+
+current window?
+
+2. Digital wallet
+
+1. F1
+
+3. Electronic cheque
+
+2. F5
+
+4. All of the above
+
+3. F3
+
+5. None of these
+
+4. F6
+5. F4
+
+195. _______ allows wireless mobile device to access
+the internet and its services such as the web and
+
+190. Which of the following is the first graphical
+
+email.
+
+web browser?
+
+1. TCP
+
+www.BankExamsToday.Com
+
+Page 30
+
+IBPS Clerk Mains : Part - 1
+2. Ethernet
+
+4. Join Photographic Expert graphics
+
+3. WAP
+
+5. None of these
+
+4. Token ring
+5. None of these
+196. The conversation of electronic data into
+
+Answer :
+
+another form is called1. Biometrics
+2. Encryption
+
+1. 4;
+The series is
+
+3. Compression
+4. Encapsulation
+5. None of these
+197. Which of the following protocol have file edit
+capability in remote logging?
+1. FTP
+2. TFTP
+3. Telnet
+4. SMTP
+5. None of these
+
+Hence, there should be 60 in place of 59.
+2. 1;
+The series is
+
+198. Grammar of the programming is checked at
+which phase of compiler?
+1. Semantic analysis
+2. Syntax analysis
+3. Code generation
+4. Code optimization
+5. None of these
+Hence, there should be 27 in place of 30.
+199. End to End connectivity is provided from
+which of the following layer?
+1. Network layer
+2. Session layer
+3. Transport layer
+
+3. 5;
+The series is
+2³ - 3 = 5,
+3³ - 4 = 23, 4³-5 = 59
+5³-6 = 119, 6³ - 7 = 209, 7³ - 8 = 335
+Hence, there should be 23 in place of 30.
+
+4. Data link layer
+5. None of these
+
+4. 3;
+The series is
+
+200. JPEG stands for 1. Joint Photographic Expert group
+2. Joint Photographic Expert graphics
+3. Join Photographic Expert group
+
+www.BankExamsToday.Com
+
+Page 31
+
+IBPS Clerk Mains : Part - 1
+
+9. d) Combining both statement we get
+N<R=K<L>U>F
+No Relation can establish between R & F and N&U. So,
+Hence, there should be 380 in place of 385.
+5. 2;
+The series is
+
+conclusion (I) nor (II) is true.
+
+10. e) Combining both statements we get
+C>R>T=M<P<N
+Thus C>M is true, again T<N is true, so both
+conclusions (I) and (II) are true .
+
+Hence, there should be 21 in place of 29.
+
+11. 1;
+Total number of students
+
+6. e) Combining both statements we get
+C>E>N=T=W>L
+
+12. 4;
+CP of the article
+
+Thus N=W is true, again E>L is true, , so both
+conclusions (I) and (II) are true .
+∴ Profit percentage
+7. b) Combining both statements we get
+Q>M>E=R<S>P
+No Relation Can’t be established between P & Q, but
+M>R is true, so conclusion (II) is true.
+
+= 29.03% gain
+
+8. e) Combining both statement we get
+
+13. 5;
+Five years ago the average age of 4 boys = 9 years
+The present average age of 4 boys = 9+5 = 14
+So the present age of new boys = 15 + 4 x 1 = 19 years
+
+X>W<T=G and G=T>W>D>B
+
+14. 2;
+
+Hence G>D is right again T>B is true. Hence both the
+conclusions are true.
+
+www.BankExamsToday.Com
+
+Page 32
+
+IBPS Clerk Mains : Part - 1
+
+Male managers in Sales department
+
+∴ Required percentage
+
+Units of work done in 3 days = (2 + 3 + 4) = 9
+∴ 72 units of work will be done in = 3 x 8 = 24 days
+15. 3;
+SP = 100, SP (with tax) = 130
+New SP = 100 - 5 = 95
+Effective discount = 130 - 95 = 35
+So, when SP of 95, discount = 35
+And when SP of Rs. 16,150, discount = 35/95x16150 =
+Rs. 5950
+
+18. 4;
+Female managers in Operation and Finance
+departments together
+
+= 800 + 1100 = 1900
+Male officers in Operation and Finance department
+together
+
+16. 3;
+Procuremet Department:
+= 1200 + 1700 = 2900
+∴ Rquired ratio = 19: 29
+
+19. 5;
+Male officers in Advertising and Sales departments
+
+Total female employees = 1200 + 1300 = 2500Total
+male employees = 1500 + 900 = 2400
+∴ Required percentage more
+
+17. 5;
+Female managers in Finance department
+
+www.BankExamsToday.Com
+
+= 900 + 1600 = 2500
+∴ Required percentage
+
+20. 3;
+Female officers in Advertising and Public relation
+
+Page 33
+
+IBPS Clerk Mains : Part - 1
+25.. 4;
+Required percentage
+= 700 + 1375 = 2075
+Female managers in Advertising and Public Relation
+
+= 1700 + 800 = 2500
+∴ Required difference = 2500 - 2075 = 425
+
+21. 5;
+Required Ratio
+= (1800 + 2500 + 2400 + 2200) : (3200 + 1600 + 2600 +
+2200)
+= 8900 : 9600 = 89:96
+
+22. 3;
+Required answer
+
+26. 3;
+Required ratio
+= 18 x 58 : 21 x 36
+= 58 : 42 = 29 : 21
+
+27. 4;
+Required difference
+
+28. 1;
+Required percent
+= 1392 - 1008 + 638 - 504 = 384 + 134 = 518
+
+23. 5;
+Required percentage
+
+24. 1;
+Required average
+
+29. 3;
+Number of boys (as required)
+
+Number of girls (as required)
+
+www.BankExamsToday.Com
+
+Page 34
+
+IBPS Clerk Mains : Part - 1
+
+∴ Required percent less
+
+30. 5;
+Required average
+
+31. 2;
+Required ratio
+
+Directions ( 32-35)
+Number of candidates qualified in the year
+2013 = 45 x 1420 = 63900
+2014 = 52 x 1800 = 93600
+States
+
+2013
+
+2013
+
+2014
+
+2014
+
+Qualified
+
+M
+
+F
+
+Qualified
+
+M
+
+F
+
+S₁
+
+18 x 639 = 11502
+
+6390
+
+5112
+
+20 936 = 18720
+
+11648
+
+7072
+
+S₂
+
+16 x 639 = 10224
+
+7668
+
+2556
+
+12 x 936 = 11232
+
+7020
+
+4212
+
+S₃
+
+12 x 639 = 7668
+
+4473
+
+3195
+
+16 x 936 = 14976
+
+10296
+
+4680
+
+S₄
+
+16 x 639 = 10224
+
+5538
+
+4686
+
+15 x 936 = 14040
+
+8100
+
+5640
+
+S₅
+
+25 x 639 = 15975
+
+8307
+
+7668
+
+22 x 936 = 20592
+
+12870
+
+7722
+
+S₆
+
+13 x 639 = 8307
+
+7384
+
+923
+
+15 x 936 = 14040
+
+7722
+
+6318
+
+32. 2;
+Required percentage
+
+33. 1;
+Required average
+
+34. 3;
+Required ratio
+
+www.BankExamsToday.Com
+
+Page 35
+
+IBPS Clerk Mains : Part - 1
+= 5112 + 3195 : 11648 + 10296
+= 8307 : 21944
+35. 3;
+Required average
+
+[1500 x R1 x 3] /100 – [1500 x R2 x 3] /100 =13.5
+==>4500 (R1 – R2) = 1350
+==>R1 – R2 =1350/4500=0.30%
+41. 4;
+Present age Ratio = 6:7
+Difference = 7-6 = 1
+
+36. Given number = 169q + 78
+
+1 unit ----- 4 years
+
+= 13 ( 13 q + 6)
+=> The number is completely divisible by 13.
+
+6 units ---- 24years
+
+37. Let the distance travelled by the first train be x
+km.
+. . Distance travelled by the second train = x + 120 km
+
+Now, x/50 = x + 120/60
+
+7 units ---- 28 years
+after 4 years P and Q age = 28 years and 32 years
+Ratio = 28:32= 7:8
+
+42. 3;
+Total score in 11 matches = 11*50 =550
+
+. . x = 600 km
+Distance between A and B = x + x + 120 = 1200 + 120
+= 1320 km
+
+First 6 matches total score = 6*49= 294
+Last 6 matches total score = 6*52 = 312
+6th match score = (294+312)-550=56
+
+38. 4;
+Q takes x days and P takes x+10 days
+Both are completed the work = (1/x)+(1/x+10) = 20/3
+==> 3x ²-10x-200=0
+==> x = 10, -20/3
+Days cant be negative sign . so X = 10
+P alone completed = 10+10=20 days
+
+43. 1;
+P = 90*100/(2*10) = 450
+C.I = 450(1+(10/100))^2 - 450= 450 * 121/100 - 450 =
+94.5
+
+39. 1;
+
+44. 2;
+
+==> 25/100 x 1320 + 64/100 x 4000
+
+Total no of balls =10+7+12 = 29
+Probability of Black balls =10/29
+Probability of White balls = 7/29
+Probability of Either Black or White = 10/29 + 7/29 =
+17/29
+
+==> 330+2560 = 2890
+40. 3;
+
+www.BankExamsToday.Com
+
+Page 36
+
+IBPS Clerk Mains : Part - 1
+45. 1;
+P,Q and R salaries Ratio = 5:3:2 = 500:300:200
+If P Salary Increases 20% = 500×(20/100) = 100 =>
+500+100 = 600
+If Q Salary Increases 10% = 300×(10/100) = 30 =>
+300+33 = 330
+If R Salary Increases 20% = 200×(20/100) = 40 =>
+200+40 = 240
+New Ratios = 600:330:240 = 20:11:8
+
+46. 3;
+==> 2 x pi x r = 6600/15 =440m
+==> r = 70m
+Area = pi x r ²= 22/7 x 70 x 70 = 15,400
+Total cost = 15,400 x 50=7,70,000
+
+47. 2;
+Total Weight of men = 20 x 72= 1440
+Total Weight of women = 34 x 62.5 = 2125
+Average weight of all men and women =
+(1440+2125)/(20+34) = 66.01~ = 66 kgs
+
+C efficiency = 60/60 = 1
+A working 2 days and third day they all working
+together
+So total efficiency = A efficiency + A efficiency + A , B
+and C efficiency ( for 3days )
+==> 3+3+6=12
+Work completed = 60/12 = 5
+Total days = 5*3 = 15 days
+50. 2;
+Speed x 10 --------- 36 sec ( its gives how many meters
+travelled in 36 sec)
+Train speed = x kmph
+Man speed = 2 kmph
+Relative Speed = x-2
+(X-2) x 10 ----------- 36 sec
+150.
+----------- 3 sec
+==> 30(x-2) = 5400
+==> x = 182kmph
+51. 4
+52. 4
+53. 1
+54. 5
+55. 1
+56. 3
+57. 2
+
+48. 4;
+Ratio difference = 9-7=2 units
+Age difference = 4
+2 units ---------- 4
+7 units --------- ?
+Mark age = 14 years
+Similarly Steve age = 18 years
+Mark is twice as old as he is age = 14 +14 =28
+At the same time Steve age = 18+14 = 32
+New ratio = 7:8
+
+58. 2
+59. 1
+60. 2
+61. 5
+62. 3
+63. 4
+64. 2
+65. 5
+66. 5
+67. 5
+68. 4
+69. 4
+
+49. 4;
+L.C.M of 20,30 and 60 = 60 = Total work
+A efficiency = 60/20 =3
+B efficiency = 60/30 = 2
+
+www.BankExamsToday.Com
+
+70. 4
+71. 4
+72. 1
+
+Page 37
+
+IBPS Clerk Mains : Part - 1
+73. 1
+
+I+A Some pounds are canals. Thus conclusion l) may
+
+74. 2
+
+follows and possibility in 2) exist. Hence But the
+
+75. 1
+
+conclusion 1) and 2) follow.
+
+76. 1
+
+Again, All streams are canals (A) + All canals are rivers
+(A) = A + A = A = All stream are rivers (A). Hence 3)
+
+77. 3
+
+follows. Now, Some waters are streams (I) + All
+
+78. 1
+
+canals (I). Thus, possibility in 4) exists. Hence 4)
+
+79. b
+80. c
+81. D; no error
+82. C; indicate will be used
+83. D; no error
+84. C; hit will be used.
+85. A; lives will be used
+86. a
+87. d
+88. A
+89. e
+90. A
+91. There is no definite relation between soil and
+cloud. But the possibility in 1) exists. Hence
+conclusion l) conclusion 1) follow.
+Again, All soil are stones (A) + some stones are hills (I)
+= A + I = No conclusion. But the possibility in 2) exists
+and the possibility between mountains and stone also
+exists. Hence conclusion 4) follows Now, All
+mountains are not clouds (O) some mountains are
+not clouds (O). So, we can't say no stone is cloud.
+Hence 3) may follows. Again, All
+soils are stone (A) — conversion some stones are soils
+(I). Hence 5) does not follow.
+92. Some streams are pounds (I) conversion Some
+pounds are streams (I) + All streams are canals (A) =
+
+streams are canals (A) = I + A = I = Some waters are
+follows. From statements second conclusion 5) does
+not follow.
+93. 2; From statements first and second.
+Some trees are forest (I)+ Some forests are animals
+(I)=I+I = No conclusion. But 1) may follows and
+possibility in 3) exists. Hence conclusion 1) and 3)
+follow. Again, all herbivores are pets (A) – conversion
+– Some pets are herbivores (I). Hence conclusion 2)
+does not follow. From statements second possibility
+in 5) exist. Hence 5) follows. And possibility in 4) also
+follows.
+94.1; Some metroes are Smart (I)+ All smart are
+electronic vans (A)= I+A=I= Some metroes are
+electronic vans (I). Hence conclusion 2) follows. But
+from statement four conclusion 2) follows. But from
+statement four conclusion 1) does not follow. There is
+no negative statements. So possibility in 3) and 4)
+exist. Hence conclusion 3) and 4) follow.
+Again, conclusion 5) follows from statement first.
+95.5; All apples are oranges (A)-conversion – some
+oranges are apples (I)+ All apples are not papayas (O)conversion – some apples are not papayas (O)=I+O=
+No conclusion.
+So, the possibilities in 1) and 3)exist. And conclusion
+2) and 4) may follow.
+Again, conclusion 5) does not follow from statement
+four.
+
+(96- 100):
+
+www.BankExamsToday.Com
+
+Page 38
+
+IBPS Clerk Mains : Part - 1
+
+96. (Option C)
+97. (Option A)
+
+98. (Option C)
+99. (Option D)
+100. (Option C)
+
+(101- 105):
+
+www.BankExamsToday.Com
+
+Page 39
+
+IBPS Clerk Mains : Part - 1
+101.
+102.
+103.
+104.
+105.
+
+(Option D)
+(Option C)
+(Option D)
+(Option A)
+(Option A)
+
+(106-110)
+
+106.
+107.
+108.
+109.
+110.
+
+Persons
+
+Courses
+
+Colors
+
+Jeeva
+
+M.Com
+
+Yellow
+
+Vaani
+
+M.Com
+
+White
+
+Waqar
+
+M.Com
+
+Pink
+
+Morya
+
+M.A.
+
+Blue
+
+Tarun
+
+M.A.
+
+Red
+
+Ram
+
+M.Sc.
+
+Brown
+
+Paramjit
+
+M.Sc.
+
+Black
+
+(Option A)
+(Option C)
+(Option C)
+(Option B)
+(Option B)
+114. 38 years
+
+111.
+Let x = Anita's age now.
+= Difference between their ages NOW is 24-x.
+24 - x years ago, Bala was a years old, while Anita was
+x-(24-x) = 2x - 24.
+During that time, x = 2(2x-24), or x = 4x - 48, or 3x =
+48, or x = 16.
+Thus Anita is 16 years old now.
+
+112. 21 years. One year from today he will be 22, and
+twice as old as he was 10 years ago, i.e. when he was
+11.
+
+115. 5 years. The difference in their ages will always
+remain the same.
+116.3
+117.2
+118.3
+119.4
+120.2
+
+113. 6 years
+121. None of the above
+
+www.BankExamsToday.Com
+
+Page 40
+
+IBPS Clerk Mains : Part - 1
+
+122. Son
+
+123. His Daughter
+124. His son's
+125. Sister
+126. Both the statements (A) and (B) are effect of
+some common causes.
+127. Both the statements (A) and (B) are effects of
+some common causes.
+128. Statement (A)-Cause; Statement (B)-Effect
+129. Both the statements (A) and (B) are effects of
+independent causes.
+130. Statement (B)-cause; Statement (A)-Effect
+
+www.BankExamsToday.Com
+
+131 (Option D)
+Relation between Paarth and Keshav can not be
+established with the help of both Statements I and II.
+So, both the statements are not sufficient to answer
+the question.
+132 (Option E)
+As given in the Question, M + N + O = 50 yr
+N = M + 10
+So, Now solve the equation
+M + N + O = 50
+M + (M + 10) + 30 = 50
+2 M + 40 = 50
+
+Page 41
+
+IBPS Clerk Mains : Part - 1
+2M = 50 - 40
+2M = 10
+M = 10/2
+M=5
+N = M + 10
+N = 5 + 10
+N = 15
+So, both statements are required to answer the
+question.
+133 (Option E)
+From Statement I
+Number of Students in class = 21 or 22 or 23 or 24 or
+25 or 26
+From Statement II
+Number of Students in class = 25 or 26 or 27 or 28 or
+29 or 30
+Since, number of students can be divided into groups
+of 5 students, therefore number of students must be
+multiple of 5.
+Number of students in the class = 25 or 30
+On combining Statements I and II
+Number of students in the class = 25
+Hence, the data in both the Statement I and II
+together are necessary to answer the question.
+
+Secured-mu
+In-fy
+College-hr
+Winner-la
+Form-tu
+Top/Produces-jo/bi
+136. c
+137. e
+138. d
+139. a
+140. D
+141. b
+142. d
+143. b
+144. c
+145. a
+146. d
+147. b
+
+134 (Option D)
+From Statement I
+Naresh > Manish > Kalu
+From Statement II
+Lucky > Naresh
+From both the Statements
+Lucky > Naresh > Manish > Kalu
+But height of Jatin is not clear.
+Thus, second tallest friend can't be determined.
+Hence, data neither in Statement I nor in Statement II
+are sufficient to answer the question.
+
+148. b
+149. d
+150. d
+151. d
+152. b
+153. b
+154. a
+
+135 (Option D)
+Both the statements are not sufficient.
+(136-140)
+School-de
+Every-cr
+Area-ek
+
+www.BankExamsToday.Com
+
+155. a
+156. c
+157. b
+158. d
+
+Page 42
+
+IBPS Clerk Mains : Part - 1
+159. a
+
+184. 5
+
+160. c
+
+185. 3
+
+161. a
+
+186. 2
+
+162. c
+
+187. 1
+
+163. b
+
+188. 3
+
+164. a
+
+189. 2
+
+165. d
+
+190. 4
+
+166. a
+
+191. 2
+
+167. c
+
+192. 1
+
+168. a
+
+193. 4
+
+169. c
+
+194. 4
+
+170. d) 3,000
+
+195. 3
+
+171. a) 26 Apr
+
+196. 2
+
+172. a) NABARD
+
+197. 3
+
+173. d) South Africa
+
+198. 2
+
+174. d) Ashok Dalwai
+
+199. 3
+
+175. d) Mongolia
+
+200. 1
+
+176. b) Zimbabwe
+177. c) three
+178. c) Sania Mirza
+179. a) Nauru
+180. a) vacuum tube
+181. 3
+182. 2
+183. 2
+
+www.BankExamsToday.Com
+
+Page 43
+
+

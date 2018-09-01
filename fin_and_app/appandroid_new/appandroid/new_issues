@@ -1,0 +1,16 @@
+------------------issuess-------------------------------------
+related to db how to attach db to app-->make it portable
+before closing the app save data
+getting question option answer data,fill it to sqlite db
+porting to android app
+changing front end for android
+testing
+check memmory issues
+
+enhancement
+seperate mains and prelims
+
+
+solved
+no of objects created during question-option memory issue
+created module to verify the answers from db

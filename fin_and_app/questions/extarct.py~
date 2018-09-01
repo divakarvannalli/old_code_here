@@ -1,0 +1,5 @@
+import os
+
+input="IBPS clerk  Mains  part 1.pdf"
+output="out.txt"
+os.system(("ps2ascii %s %s") %( input , output))
